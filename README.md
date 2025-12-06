@@ -1,4 +1,4 @@
-# About Me
+# Me
 Hi!
 
 I'm a first-year undergraduate studying physics with a biophysics concentration @ Case Western Reserve University. I have a broad range of interests, but I'm focusing on computational methods, dynamical systems, and statistical physics at the moment.
