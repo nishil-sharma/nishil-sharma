@@ -12,7 +12,7 @@ I'm also interested in music and old languages.
   
 - 📈 Mathematical finance
   
-- ⚛️ Computational materials
+- ⚛️ Molecular dynamics
 
 ## Projects
 ### Ongoing
