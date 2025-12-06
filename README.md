@@ -12,7 +12,7 @@ I'm a first-year undergraduate studying physics with a biophysics concentration 
   
 - ⚛️ Molecular dynamics
 
-- 📜 Old Languages
+- 📜 Old languages
 
 ### Projects
 #### Ongoing
