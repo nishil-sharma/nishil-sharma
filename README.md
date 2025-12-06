@@ -21,3 +21,7 @@ I'm also interested in music and old languages.
 ### Past
 - Simulated annealer
 - Simulating carbon-dioxide absorption in various metallo-organic frameworks
+
+### Reading
+- _The Foundations of Population Genetics_ by Daniel M. Weinreich
+- _Walden_ by Henry David Thoreau
