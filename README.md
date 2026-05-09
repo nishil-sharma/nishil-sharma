@@ -1,3 +1,5 @@
 ## Hi!
 
-Undergraduate Physics Student @ CWRU
+Undergraduate physics student at Case Western Reserve University.
+
+Interested in the physical basis of cancer.
